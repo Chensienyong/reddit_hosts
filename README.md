@@ -1,4 +1,7 @@
 ## Reddit
+```bash
+$sudo vim /etc/hosts
+
 151.101.129.140 reddit.com
 151.101.49.140  www.reddit.com
 151.101.49.140  i.redditmedia.com
@@ -16,3 +19,4 @@
 151.101.49.140  www.redditmedia.com
 151.101.49.140  about.reddit.com
 54.174.14.76  out.reddit.com
+```
